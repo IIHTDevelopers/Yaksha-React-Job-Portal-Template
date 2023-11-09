@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "TechCorp Inc.",
+        "location": "Hyderabad",
+        "type": "Full-Time",
+        "description": "We are looking for a skilled Frontend Developer to join our team..."
+    },
+    {
+        "id": 2,
+        "title": "UX/UI Designer",
+        "company": "DesignHub Ltd.",
+        "location": "Gurgaon",
+        "type": "Contract",
+        "description": "DesignHub is seeking a talented UX/UI Designer to work on exciting projects..."
+    },
+    {
+        "id": 3,
+        "title": "Data Scientist",
+        "company": "Data Insights Co.",
+        "location": "Jaipur",
+        "type": "Part-Time",
+        "description": "Join our Data Science team and apply your skills to solve real-world problems..."
+    },
+    {
+        "id": 4,
+        "title": "Backend Developer",
+        "company": "WebTech Solutions",
+        "location": "Bangalore",
+        "type": "Full-Time",
+        "description": "WebTech Solutions is hiring a Backend Developer to build robust server applications..."
+    }
+]
