@@ -1,4 +1,4 @@
-* You can follow series of command to setup Angular environment once you are in your project-name folder:
+* You can follow series of command to setup React environment once you are in your project-name folder:
 
 	npm install -> Will install all dependencies -> takes 10 to 15 min
 
